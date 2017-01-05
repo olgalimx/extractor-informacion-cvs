@@ -1,2 +1,2 @@
 # extractor-informacion-cvs
-Extractor de información de CVs.
+Programa que extrae información relacionada con formación académica y experiencia laboral de curriculum.
